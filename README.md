@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-FFA07A?style=for-the-badge&logo=python&logoColor=black"/><img src="https://img.shields.io/badge/C++-FFA07A?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FFA07A?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/C++-FFA07A?style=for-the-badge&logo=cplusplus&logoColor=black"/>
 
 
 <!--
